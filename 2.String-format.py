@@ -14,3 +14,6 @@ print('=' *length)
 print(line1)
 print(line2)
 print('=' *length)
+
+
+#学习第三天
